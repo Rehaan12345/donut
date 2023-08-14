@@ -30,4 +30,4 @@ $pt.x|floor)as$xp|($s             /2-$K1*$pt.ooz*$pt
 ```
 
 To run JavaScript donut:
-Fork the git, open donutjs.js in VSCode or Terminal, install node, and type #node donutjs.js 
+Fork the git, open donutjs.js in VSCode or Terminal, install node, and type node donutjs.js
