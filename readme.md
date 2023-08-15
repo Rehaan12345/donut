@@ -3,7 +3,7 @@
 To run C donut:
 Copy and paste below code in terminal: 
 
-```sh
+```
                   jq -nr 'def R(A;B;C
             ):range(A;B;C);def R(A):range
           (A);30as$s|1as$R1|2as$R2|7as$K2|(
